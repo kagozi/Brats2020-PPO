@@ -1,0 +1,15 @@
+Metric,Value
+dice_mean,0.8033
+dice_std,0.3519
+iou_mean,0.7784
+iou_std,0.3679
+precision_mean,0.1639
+precision_std,0.339
+recall_mean,0.1232
+recall_std,0.2722
+specificity_mean,0.9996
+specificity_std,0.0014
+hausdorff_mean,3.5491
+hausdorff_std,8.3494
+volume_similarity_mean,0.8347
+volume_similarity_std,0.3293

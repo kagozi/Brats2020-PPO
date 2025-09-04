@@ -48,6 +48,4 @@ Open a **jupyterlab** instance
 ```bash
 $ jupyter-lab
 ```
-
-The code should be present in the `chromedino.ipynb` file.
 # Brats2020-PPO
