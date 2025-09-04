@@ -39,15 +39,18 @@ source .venv/Scripts/activate
 (.venv) $ pip install -r requirements.txt
 ```
 
-1. Fill in the values appropriately
+### Dataset -> BraTS2020
 
-## Run the queries
+**Data** Download the Dataset and unzip it into the data directory:
+[Kaggle BraTS202](https://www.kaggle.com/datasets/awsaf49/brats2020-training-data/data)
+
+```bash
+$ unzip path/to/BraTS2020_training_data.zip -d ./data 
+```
 
 Open a **jupyterlab** instance
 
 ```bash
 $ jupyter-lab
 ```
-
-The code should be present in the `chromedino.ipynb` file.
 # Brats2020-PPO
