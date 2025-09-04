@@ -53,4 +53,3 @@ Open a **jupyterlab** instance
 ```bash
 $ jupyter-lab
 ```
-# Brats2020-PPO
